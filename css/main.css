@@ -1,0 +1,25 @@
+.navbar{
+    background: #2f353a;
+}
+
+#buscar{
+    background-color: rgba(0,0,0,.2);
+border-radius: 20px;
+border: 0;
+margin-bottom: 0;
+padding-right: 50px;
+
+
+}
+
+#buscar-icon{
+    display: inline-block;
+    background-color: transparent;
+position: absolute;
+width: 40px;
+height: 40px;
+padding: 0;
+right: 0;
+top: 0;
+margin-bottom: 0;
+}
